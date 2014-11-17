@@ -25,6 +25,7 @@ public class CourseGrades implements Analyzable
    public CourseGrades()
    {
       GradedActivity[] grades=new GradedActivity[NUM_GRADES];
+      System.out.print("hi");
              
    }
    
